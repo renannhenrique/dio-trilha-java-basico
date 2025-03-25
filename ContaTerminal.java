@@ -17,7 +17,7 @@ public class ContaTerminal {
 
 
     //Criar conta bancaria
-    public void createAccBank(){
+    public void criarConta(){
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         System.out.println("Por favor, digite o número da Conta!");
